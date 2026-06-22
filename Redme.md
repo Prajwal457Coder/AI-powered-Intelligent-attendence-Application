@@ -45,7 +45,7 @@ for help in image preprocessing
 streamlit
 for frontend
 
-
+app.py streamlit ke liye entry point hota hai
 
 
 
