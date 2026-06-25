@@ -321,6 +321,9 @@ pip install resemblyzer
 
 ---
 
+# Deploy link
+https://snapclass-ai-smart-attendence.streamlit.app/
+
 # 👨‍💻 Developed By
 
 **Prajwal Kumbhare**
