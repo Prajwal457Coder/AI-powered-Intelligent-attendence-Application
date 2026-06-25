@@ -47,8 +47,13 @@ for frontend
 
 app.py streamlit ke liye entry point hota hai
 
+mv streamlit .streamlit 
+for folder ko wapas lane ke liye
 
-
-
-
+use for voice
+librosa
+files ko load,edit karna,modify karna segments me katna ,noise nikalna
+resemblyzer
+embedding banate hai taki ml algo se compare kar paye kya two embedding same hai
+ya nahi, kya ye meri hi voise hai
 
